@@ -17,6 +17,8 @@ Proyecto1_HAR/
 ├── predictions_knn.csv
 ├── predictions_SVM.csv
 └── README.md
+```
+
 ---
 
 ## 🛠️ Tecnologías utilizadas
