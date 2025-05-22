@@ -4,8 +4,10 @@ Proyecto desarrollado para reconocer actividades humanas a partir de señales mu
 
 ---
 
+
 ## 📂 Estructura del proyecto
 
+```bash
 Proyecto1_HAR/
 ├── train.h5
 ├── test.h5
@@ -15,8 +17,6 @@ Proyecto1_HAR/
 ├── predictions_knn.csv
 ├── predictions_SVM.csv
 └── README.md
-
-
 ---
 
 ## 🛠️ Tecnologías utilizadas
